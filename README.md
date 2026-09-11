@@ -1,4 +1,4 @@
-﻿# Shree Sudhakar Group - Corporate Website & Backend
+# Shree Sudhakar Group - Corporate Website & Backend
 
 > **Building Infrastructure. Powering Progress.**
 
