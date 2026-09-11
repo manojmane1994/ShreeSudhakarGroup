@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mahesh Deshmukh",
+    "mobile": "+91 9822001122",
+    "email": "mahesh@example.com",
+    "vertical": "Gas Pipeline Infrastructure",
+    "city": "Pune",
+    "message": "Need quotation for 12km MDPE gas pipeline civil trenching works.",
+    "status": "New",
+    "created_at": "2026-09-11T09:13:52.665604",
+    "id": "dev-local-1"
+  },
+  {
+    "name": "Nikhil Pandharmise",
+    "mobile": "+91 9623822600",
+    "email": "nikhilp@gmail.com",
+    "vertical": "Fabrication & PEB Structures",
+    "city": "Pune",
+    "message": "PEB Project",
+    "status": "New",
+    "created_at": "2026-09-11T09:20:13.634730",
+    "id": "dev-local-2"
+  },
+  {
+    "name": "Test User",
+    "mobile": "+919689820892",
+    "email": null,
+    "vertical": "Government Infrastructure",
+    "city": "Pune",
+    "message": "Test enquiry",
+    "status": "New",
+    "enquiry_date": "2026-09-11",
+    "enquiry_time": "16:25:52",
+    "created_at": "2026-09-11T10:55:52.221693+00:00",
+    "source": "Website",
+    "ip_address": "testclient",
+    "user_agent": "testclient",
+    "id": "lead-3"
+  },
+  {
+    "name": "Gita Manoj Mane",
+    "mobile": "+91 9689820892",
+    "email": "gita0101@gmail.com",
+    "vertical": "CNG & Petrol Pump Projects",
+    "city": "Dharashiv",
+    "message": "Enquiry",
+    "status": "Contacted",
+    "enquiry_date": "2026-09-11",
+    "enquiry_time": "16:28:36",
+    "created_at": "2026-09-11T10:58:36.532679+00:00",
+    "source": "Website",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36",
+    "id": "lead-4"
+  }
+]

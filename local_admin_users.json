@@ -1,0 +1,13 @@
+[
+  {
+    "id": "usr-1",
+    "username": "admin",
+    "email": "admin@shreesudhakar.com",
+    "full_name": "Default Administrator",
+    "password_hash": "25c5f73b5989c011001f662d80f0d1e3279f77de3ac78ef71aef77d72704ca54",
+    "salt": "ssg_salt_2026",
+    "role": "superadmin",
+    "is_active": true,
+    "created_at": "2026-09-11T09:37:21.017122"
+  }
+]
